@@ -8,6 +8,6 @@
     `sudo apt chromium`
 ## Usage
 1. Run script.
-    `sudo ./fix_opera_libffmpeg`
+    `sudo ./fix_opera_libffmpeg.sh`
 ## Testing
  Goto https://html5test.com/ in Opera and make sure it says h.264 and aac are supported.
