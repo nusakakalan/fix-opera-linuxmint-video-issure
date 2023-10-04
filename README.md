@@ -1,5 +1,5 @@
-# Fix opera linux mint video issure
-##This script is solve the problem of opera browser in linux mint wont play video issue. 
+# Fix opera browser(Flathub) in linux mint video issue(Fix proprietary h.264 and aac support)
+##This script is to solve the problem that the Opera browser flathub version in Linux Mint won't play videos.
 * This script only support Flathub opera version
 * This script must be executed after Opera each update or reinstall.
 
@@ -9,3 +9,5 @@
 ## Usage
 1. Run script.
     `sudo ./fix_opera_libffmpeg`
+## Testing
+ Goto https://html5test.com/ in Opera and make sure it says h.264 and aac are supported.
