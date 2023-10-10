@@ -1,6 +1,6 @@
 #!/bin/bash
 LIBFFMPEG_PATH=/usr/lib/chromium/libffmpeg.so # add libffmpeg file path
-OPERA_PATH=/var/lib/flatpak/app/com.opera.Opera/x86_64/stablee/ # add opera browser path(flatpak)
+OPERA_PATH=/var/lib/flatpak/app/com.opera.Opera/x86_64/stable/ # add opera browser path(flatpak)
 echo "+-------------------------------------------------------------------+"
 echo " "
 
